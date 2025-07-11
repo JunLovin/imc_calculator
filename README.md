@@ -30,8 +30,8 @@ Asegúrate de tener instalado Flutter y Dart en tu máquina.
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
-    cd nombre-del-repo
+    git clone [https://github.com/JunLovin/imc_calculator.git](https://github.com/JunLovin/imc_calculator.git)
+    cd imc_calculator
     ```
 
 2.  **Instala las dependencias:**
