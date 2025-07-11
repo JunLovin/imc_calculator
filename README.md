@@ -16,7 +16,7 @@ Este proyecto ofrece una interfaz de usuario limpia e intuitiva, permitiendo a l
 
 | Pantalla Principal (Entrada de Datos) | Pantalla de Resultados |
 | :---: | :---: |
-| <img src="image_cf7379.png" alt="Captura de la pantalla principal del IMC Calculator" width="300"/> | <img src="image_cf70d3.png" alt="Captura de la pantalla de resultados del IMC Calculator" width="300"/> |
+| <img src="public/screenshot_home.png" alt="Captura de la pantalla principal del IMC Calculator" width="300"/> | <img src="public/screenshot_results.png" alt="Captura de la pantalla de resultados del IMC Calculator" width="300"/> |
 
 ## 🛠️ Tecnologías Utilizadas
 
